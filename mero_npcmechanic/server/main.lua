@@ -50,4 +50,4 @@ ESX.RegisterServerCallback('mero_npcmechanic:pay', function(source, cb, option, 
 end)
 
 Config.EnableDiscordLogs = true  -- Włączanie lub wyłączanie logów Discord
-Config.DiscordWebhook = 'https://discord.com/api/webhooks/1251157171547144244/_S_KnXc13_CvaOzDRgE2ThSvrn4OwQdAv9aO381I9OHcaLsX5BVZjVrh7XUF6jTDsbnA'
+Config.DiscordWebhook = 'twuj webhook'
